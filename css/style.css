@@ -125,3 +125,16 @@ body, html {
     margin: auto;
     width: 40%;
   }
+.text{
+  /* display: flex;
+  align-items: center; */
+  margin: 0px 30px;
+}
+
+.text-heading{
+  font-weight: 600;
+}
+
+.para-text{
+  margin: 20px 35px;
+}
