@@ -94,6 +94,13 @@ body, html {
     text-align: center;
     background-color:rgb(37, 143, 37);
       }
+         .body{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    transform: translate(-50%,-50%);
+/*     background-color: #2a9d8f; */
+}
   }
 
   .pointer{
@@ -183,12 +190,4 @@ body, html {
         width: 100%;
     }
 };
-@media (max-width:480px) and (min-width:320px) {
-    .body{
-    position: absolute;
-    top: 30%;
-    left: 25%;
-    transform: translate(-50%,-50%);
-/*     background-color: #2a9d8f; */
-}
-}
+
